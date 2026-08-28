@@ -1,7 +1,7 @@
 rgs={
 
     rg1={
-        name="pink"
+        name="pink2"
         location="eastus"
     }
 }
